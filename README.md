@@ -3,7 +3,7 @@ A  search engine built with React JS, styled with Tailwind CSS and powered by Ra
 
 
 
-## [Live Preview](https://baggle-search.netlify.app/search)
+## [Live Preview](https://baggle-search.netlify.app/)
 
 
 ![PREVIEW LIGHT](/preview/baggle-light.png)
